@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m a Media Informatics student at Hochschule Bremen.<br>Media Informatics = computer science × interactive media: we design and build end-to-end systems— from data and backend logic to usable UIs—balancing complex problem-solving, UX thinking, and visual clarity.<br>💬 Passionate about technology and development, I specialize in creating modern solutions.<br>🌱 I’m currently learning: Java patterns, Git workflows, and practical Python<br>🗣️ Ask me about: turning rough ideas into simple, usable UIs (solution-oriented mindset)
+#  About Me:
+I’m a Media Informatics student at Hochschule Bremen.<br>Media Informatics is computer science × interactive media. we design and build end to end systems— from data and backend logic to usable UIs—balancing complex problem-solving, UX thinking, and visual clarity.<br>💬 Passionate about technology and development, I specialize in creating modern solutions.<br>🌱 I’m currently learning: Java patterns, Git workflows, and practical Python<br>🗣️ Ask me about: turning rough ideas into simple, usable UIs (solution-oriented mindset)
 
 
 ## 🌐 Socials:
